@@ -1,0 +1,5 @@
+s = int(input())
+kate = int((s/3)*2)
+petya = int((kate/2)/2)
+ser = int(petya)
+print(petya, kate, ser)
